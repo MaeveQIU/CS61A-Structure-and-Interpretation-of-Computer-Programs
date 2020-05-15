@@ -12,3 +12,15 @@
 
 > In Hog, two players alternate turns trying to be the first to end a turn with at least 100 total points. On each turn, the current player chooses some number of dice to roll, up to 10. That player's score for the turn is the sum of the dice outcomes.
 
+##### Phase 1: Simulator
+
+Functions to simulate a full game of Hog
+
+##### Phase 2: Commentary
+
+Functions to announce players' scores
+
+##### Phase 3: Strategies
+
+Experiment different ways to improve upon the basic strategy of always rolling a fixed number of dice
+
